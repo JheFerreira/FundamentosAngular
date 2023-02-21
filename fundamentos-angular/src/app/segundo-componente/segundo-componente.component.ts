@@ -11,7 +11,7 @@ export class SegundoComponenteComponent {
   urlImagem = "/assets/paz.jpg";
   
   mostrarDataNascimento(){
-    alert('A data de nascimento do João é: ${this.dataNascimento}')
+    alert(`A data de nascimento da Jéssica  é: ${this.dataNascimento}`)
   }
   
 

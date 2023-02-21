@@ -9,7 +9,7 @@ export class ComponentPaiComponent {
   sobrenome =  "Ferreira"
 
   mostraNomeCompleto(nomeCompleto: any){
-    alert('O nome completo é: ${nomeCompleto}');
+    alert(`O nome completo é: ${nomeCompleto}`);
   }
 
 }
